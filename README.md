@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @C0lmFinners41
-- 👀 I’m interested in ... technology, running and photograohy
-- 🐶 I have a golden retriever 
-- 🌱 I’m currently learning ... python
+-TikToker by day, world's worst programmer by night 😬
 
 <!---
 C0lmFinners41/C0lmFinners41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
