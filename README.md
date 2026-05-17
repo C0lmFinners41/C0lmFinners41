@@ -1,4 +1,4 @@
--TikToker by day, world's worst programmer by night 😬
+Trinity College Dublin || Computer Science + Business ||
 
 <!---
 C0lmFinners41/C0lmFinners41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
